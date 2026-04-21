@@ -1,4 +1,4 @@
 # html5-learning
-HTML tag lessons
+HTML tag lessonsgit 
 <br>
-Author - Rahil Shaikh
+Author - Rahil Abdul Majid Shaikh
